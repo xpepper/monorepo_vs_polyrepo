@@ -397,3 +397,4 @@ Prediction: just as DVCS killed off pre-DVCS practically overnight, the thing th
 In a sense, we already have all of these features, in folders. You can combine and separate them, you can make a local folder mimic a folder on a remote system, and access its content without needing to download it all ahead of time. They just don't have any VCS features baked in. We've got {filesystems, network filesystems, and VCS}, and each of the three has some features the others would like.
 
 
+# mob-spike2
